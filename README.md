@@ -3,7 +3,7 @@ full stack web app with react and spring
 
 Mikroservis mimarisi ile oluşturulmuş bir kurs satın alma uygulamasıdır.
 Back end için Spring front end için React kullanıldı.
-Git kullanılarak ortak bir github repo üzerinden çalışıldı.
+Bu proje takım halinde çalışıldı.
 Back end kısımları tamamlandı.
 4 adet back end mikroservisine sahibiz:
  - Gateway
