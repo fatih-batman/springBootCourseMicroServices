@@ -10,7 +10,6 @@ Back end kısımları tamamlandı.
  - Course
  - Purchase
  - Eureka
-![image](https://user-images.githubusercontent.com/78312646/182765925-5be5ddcd-8ebe-4e05-8523-426634b44f25.png)
 
 
 ![image](https://user-images.githubusercontent.com/78312646/182765956-9a063b4e-6b68-4544-b77d-86cb5862c37d.png)
