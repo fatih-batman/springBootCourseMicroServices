@@ -11,6 +11,7 @@ Bu proje takım halinde çalışıldı.
  - Purchase
  - Eureka
 
+- Course mikroservisinde çalıştım.
 
 ![image](https://user-images.githubusercontent.com/78312646/182765956-9a063b4e-6b68-4544-b77d-86cb5862c37d.png)
 ![image](https://user-images.githubusercontent.com/78312646/182765968-0d02adb6-e18a-40fa-8097-abb43f0b311b.png)
