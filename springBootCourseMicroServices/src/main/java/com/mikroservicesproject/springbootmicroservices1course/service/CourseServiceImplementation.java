@@ -19,18 +19,18 @@ public class CourseServiceImplementation implements CourseService{
     }
 
     @Override
-    public Course saveCourse(Course course){
+    public Course save(Course course){
         course.setCreateTime(LocalDateTime.now());
         return courseRepository.save(course);
     }
 
     @Override
-    public void deleteCourse(Long courseId){
+    public void delete(Long courseId){
         courseRepository.deleteById(courseId);
     }
 
     @Override
-    public List<Course> findAllCourses(){
+    public List<Course> findAll(){
         return courseRepository.findAll();
     }
 

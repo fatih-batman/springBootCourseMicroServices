@@ -5,9 +5,9 @@ import com.mikroservicesproject.springbootmicroservices1course.model.Course;
 import java.util.List;
 
 public interface CourseService {
-    Course saveCourse(Course course);
+    Course save(Course course);
 
-    void deleteCourse(Long courseId);
+    void delete(Long courseId);
 
-    List<Course> findAllCourses();
+    List<Course> findAll();
 }
